@@ -10,7 +10,7 @@ Refactored the Horiseon code in order to make the website more accessible and co
 ## Website Link
 
 ## Photos
-![Horiseon Website Photo1]("./assets/images/site_photo1.png")
+![Horiseon Website Photo1]("/assets/images/site_photo1.png")
 ![Horiseon Website Photo2]("./assets/images/site_photo2.png")
 ![Horiseon Website Photo3]("./assets/images/site_photo3.png")
 
