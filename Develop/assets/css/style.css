@@ -25,8 +25,6 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-/* end header styling */
-
 /*Begin navigation bar styles*/
 .header nav {
     padding-top: 15px;
@@ -45,13 +43,14 @@ body {
     margin-left: 25px;
 }
 /*End navigation bar styles*/
-
+/* end header styling */
+/* applying text color to all anchor tags */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* applying styling to all paragraphs */
+/* applying font size to all paragraphs */
 p {
     font-size: 16px;
 }
